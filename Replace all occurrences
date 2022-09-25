@@ -1,0 +1,4 @@
+a=str(input())
+b=input()
+c=input()
+print('modified string:\n',a.replace(b,c))
